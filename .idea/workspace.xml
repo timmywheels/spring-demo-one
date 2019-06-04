@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bae2a9e-97f7-4e19-a354-03461d5d5ac6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/timwheeler/springdemo/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/timwheeler/springdemo/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timwheeler/springdemo/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timwheeler/springdemo/SetterDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/timwheeler/springdemo/sport.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-demo-one/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-demo-one/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/timwheeler/springdemo/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timwheeler/springdemo/BaseballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/timwheeler/springdemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timwheeler/springdemo/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/timwheeler/springdemo/FootballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timwheeler/springdemo/FootballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/timwheeler/springdemo/HelloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timwheeler/springdemo/HelloSpringApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/timwheeler/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timwheeler/springdemo/TrackCoach.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +33,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="299">
+              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+              <folding>
+                <element signature="e#1313#1327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/SetterDemoApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/sport.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -48,22 +66,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/HelloSpringApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            <state relative-caret-position="279">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/CricketCoach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+              <folding>
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/Coach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/TrackCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="253">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding>
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
                 <element signature="e#130#131#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -116,9 +168,12 @@
         <option value="$PROJECT_DIR$/src/com/timwheeler/springdemo/FootballCoach.java" />
         <option value="$PROJECT_DIR$/src/com/timwheeler/springdemo/BaseballCoach.java" />
         <option value="$PROJECT_DIR$/src/com/timwheeler/springdemo/HappyFortuneService.java" />
-        <option value="$PROJECT_DIR$/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/com/timwheeler/springdemo/HelloSpringApp.java" />
         <option value="$PROJECT_DIR$/src/com/timwheeler/springdemo/TrackCoach.java" />
+        <option value="$PROJECT_DIR$/src/com/timwheeler/springdemo/CricketCoach.java" />
+        <option value="$PROJECT_DIR$/src/com/timwheeler/springdemo/SetterDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/com/timwheeler/springdemo/sport.properties" />
+        <option value="$PROJECT_DIR$/resources/applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -168,7 +223,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559614002710" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559618795675" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -197,7 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyApp">
+  <component name="RunManager" selected="Application.SetterDemoApp">
     <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.timwheeler.springdemo.HelloSpringApp" />
       <module name="spring-demo-one" />
@@ -224,8 +279,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetterDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.timwheeler.springdemo.SetterDemoApp" />
+      <module name="spring-demo-one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.timwheeler.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetterDemoApp" />
         <item itemvalue="Application.MyApp" />
         <item itemvalue="Application.HelloSpringApp" />
       </list>
@@ -241,12 +310,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559527269650</updated>
-      <workItem from="1559527271197" duration="5344000" />
+      <workItem from="1559527271197" duration="9235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5344000" />
+    <option name="totallyTimeSpent" value="9235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="575" y="22" width="705" height="774" extended-state="0" />
@@ -257,7 +326,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20060332" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.20060332" />
       <window_info id="Learn" order="6" weight="0.32943144" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
@@ -269,7 +338,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -306,13 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/Coach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/HappyFortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -321,13 +383,6 @@
             <element signature="e#143#144#0" expanded="true" />
             <element signature="e#170#171#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/FortuneService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -344,13 +399,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/MyApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="8" column="103" selection-start-line="8" selection-start-column="103" selection-end-line="8" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/BaseballCoach.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -364,29 +412,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/MyApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="184">
+          <caret line="8" column="103" selection-start-line="8" selection-start-column="103" selection-end-line="8" selection-end-column="103" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/HelloSpringApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/FortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/TrackCoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="253">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
           <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
             <element signature="e#130#131#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/HelloSpringApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/CricketCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/SetterDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/timwheeler/springdemo/sport.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+          <folding>
+            <element signature="e#1313#1327#0" expanded="true" />
           </folding>
         </state>
       </provider>
